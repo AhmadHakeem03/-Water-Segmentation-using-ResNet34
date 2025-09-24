@@ -8,9 +8,8 @@ This project implements a **deep learning model for water segmentation** from mu
 
 - `data/images/` : Input images in TIFF format (12 channels each)  
 - `data/labels/` : Ground truth masks in PNG format (binary masks)  
-- `notebooks/` : Jupyter notebooks for preprocessing, training, and visualization  
-- `train.py` : Training script for the segmentation model  
-- `visualize.py` : Script to visualize images with their masks and predictions  
+- `pre-trained.ipynb` : Jupyter notebooks for preprocessing, training, and visualization  
+
 
 ---
 
